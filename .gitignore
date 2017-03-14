@@ -11,3 +11,4 @@ vendor/
 
 # ignore temporary files
 *~
+/nbproject/private/
